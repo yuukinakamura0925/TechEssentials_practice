@@ -7,7 +7,7 @@
     https://qiita.com/ryosuketter/items/805452b7e6bf9637cb57
   - adnim:boolean
     <br>
-- question - title:string - body:text - user_id:bigint
+- question - title:string - body:text - user_id:bigint - status:integer
   <br>
 - answer
   - body:text
